@@ -1,0 +1,4128 @@
+
+<template
+	xmlns="http://www.xfa.org/schema/xfa-template/2.8/"
+>
+	<?formServer defaultPDFRenderFormat acrobat9.0dynamic?>
+	<?formServer allowRenderCaching 0?>
+	<?formServer formModel both?>
+	<subform name="topmostSubform" layout="tb" locale="en_US"
+>
+		<pageSet
+>
+			<pageArea id="PageArea1" name="PageArea1"
+>
+				<contentArea name="ContentArea1" x="12.7mm" y="8.89mm" w="190.5mm" h="270.51mm"
+/>
+				<medium short="612pt" long="792pt" stock="custom"
+/>
+				<?templateDesigner expand 1?>
+			</pageArea
+>
+			<?templateDesigner expand 1?>
+		</pageSet
+>
+		<desc
+>
+			<text name="creator"
+>wb20692</text
+>
+			<text name="department"
+>PENAD</text
+>
+		</desc
+>
+		<subform name="Form751" w="7.5in" h="270.51mm"
+>
+			<area y="0mm" name="Title"
+>
+				<draw name="G23" w="41.94pt" h="14.796mm" y="0.085mm"
+>
+					<value
+>
+						<image aspect="none" href=".\wbcube-l.gif" contentType="image/gif"
+/>
+					</value
+>
+					<traversal
+>
+						<traverse ref="T1[0]"
+/>
+					</traversal
+>
+				</draw
+>
+				<draw name="T0" x="16.889mm" w="128.631mm" h="15.421mm" y="0.009mm"
+>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="letter-spacing:0in"
+>THE WORLD BANK GROUP</p
+>
+								<p style="letter-spacing:0in"
+>STAFF RETIREMENT PLAN</p
+>
+								<p style="font-family:'Times New Roman';font-size:18pt;letter-spacing:0in"
+>ELECTION OF CURRENCY FOR PENSION</p
+>
+								<p style="font-family:'Times New Roman';font-size:18pt;letter-spacing:0in"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/>
+					<font weight="bold" size="8pt" typeface="Arial" baselineShift="0pt"
+/>
+					<traversal
+>
+						<traverse ref="UPIgrp[0].Code128BarCode1[0]"
+/>
+					</traversal
+>
+				</draw
+>
+				<draw x="16.935mm" y="11.99mm" w="93.454mm" h="5.56mm" name="T1"
+>
+					<font typeface="Times New Roman" baselineShift="0pt" size="11pt" weight="bold"
+/>
+					<value
+>
+						<text
+>(for participants joining on or before April 14, 1998)</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/>
+					<traversal
+>
+						<traverse ref="#draw[6]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 262075 12927 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 54 (for participants joining on or before April 14, 1998) 0 1417 10043 0 0 0 "Times New Roman" 1 0 11000 ISO-8859-1?>
+				</draw
+>
+				<draw x="147.479mm" w="43.021mm" h="10.595mm" y="0mm" name="T2"
+>
+					<font typeface="Arial Narrow" size="8pt" baselineShift="0pt"
+/>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="letter-spacing:0in"
+>Please refer to the Staff Retirement Plan</p
+>
+								<p style="letter-spacing:0in"
+>(Plan) document or consult Pension</p
+>
+								<p style="letter-spacing:0in"
+>Administration if you have questions.</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<traversal
+>
+						<traverse ref="T0[0]"
+/>
+					</traversal
+>
+					<border
+>
+						<edge presence="hidden"
+/>
+						<fill
+>
+							<color value="192,192,192"
+/>
+						</fill
+>
+					</border
+>
+					<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt"
+/>
+				</draw
+>
+				<draw name="C8" x="1.906mm" y="18.765mm" w="1.27mm" h="1.27mm"
+>
+					<value
+>
+						<arc circular="1"
+>
+							<edge thickness="0.24pt"
+/>
+							<fill
+>
+								<color value="0,0,0"
+/>
+							</fill
+>
+						</arc
+>
+					</value
+>
+				</draw
+>
+				<draw name="C8" x="1.906mm" y="22.521mm" w="1.27mm" h="1.27mm"
+>
+					<value
+>
+						<arc circular="1"
+>
+							<edge thickness="0.24pt"
+/>
+							<fill
+>
+								<color value="0,0,0"
+/>
+							</fill
+>
+						</arc
+>
+					</value
+>
+				</draw
+>
+				<draw x="3.175mm" y="17.57mm" w="165.63mm" h="7.985mm"
+>
+					<font typeface="Arial" baselineShift="0pt" size="9pt"
+/>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="letter-spacing:0in"
+>You should NOT complete this form if you wish to receive 100% of your pension in US dollars</p
+>
+								<p style="letter-spacing:0in"
+>Please refer to the "Currency Option Fact Sheet" and/or "Euro Currency Fact Sheet" BEFORE completing this form.</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt"
+/>
+					<traversal
+>
+						<traverse ref="Sec_1[0].Header_1[0]"
+/>
+					</traversal
+>
+				</draw
+>
+				<field name="ResetButton" y="17.91mm" x="168.734mm" w="21.896mm" h="7.67mm" relevant="-print"
+>
+					<ui
+>
+						<button highlight="inverted"
+/>
+					</ui
+>
+					<font typeface="Myriad Pro"
+/>
+					<caption
+>
+						<value
+>
+							<text
+>Reset Form</text
+>
+						</value
+>
+						<para vAlign="middle" hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/>
+						<font typeface="Myriad Pro" weight="bold" baselineShift="0pt"
+/>
+					</caption
+>
+					<border hand="right"
+>
+						<?templateDesigner StyleID apbx2?>
+						<edge stroke="raised"
+/>
+						<fill
+>
+							<color value="212,208,200"
+/>
+						</fill
+>
+					</border
+>
+					<bind match="none"
+/>
+					<event activity="click" name="event__click"
+>
+						<script contentType="application/x-javascript"
+>
+xfa.host.resetData();
+</script
+>
+					</event
+>
+					<traversal
+>
+						<traverse ref="PrintButton[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<?templateDesigner expand 1?>
+			</area
+>
+			<area y="26.77mm" name="UPIgrp"
+>
+				<draw name="UPIbox" w="190.5mm" h="15.875mm" y="0mm"
+>
+					<value
+>
+						<rectangle
+>
+							<edge thickness="0.4293mm"
+/>
+							<corner radius="5.08mm" thickness="0.429mm"
+/>
+						</rectangle
+>
+					</value
+>
+				</draw
+>
+				<draw h="13.545mm" name="StaticText8" w="58.42mm" y="1.068mm" x="1.627mm"
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<value
+>
+						<exData contentType="text/html" maxLength="0"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="font-weight:bold;letter-spacing:0in"
+>ENTER UPI HERE, THEN USE TAB TO MOVE BETWEEN FIELDS:</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<font baselineShift="0pt" typeface="Myriad Pro"
+/>
+					<margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/>
+					<para hAlign="center" marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" vAlign="middle"
+/>
+					<traversal
+>
+						<traverse ref="Sec_1[0].UPI2[0]"
+/>
+					</traversal
+>
+				</draw
+>
+				<field name="HiddenBC" w="21.285mm" h="3.489mm" access="readOnly" x="13.238mm" y="11.13mm" presence="invisible"
+>
+					<ui
+>
+						<textEdit
+>
+							<border presence="hidden"
+>
+								<?templateDesigner StyleID aped0?>
+							</border
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<font typeface="Myriad Pro"
+/>
+					<margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/>
+					<para vAlign="middle"
+/>
+					<caption reserve="12.843mm"
+>
+						<font typeface="Myriad Pro"
+/>
+						<para vAlign="middle"
+/>
+					</caption
+>
+					<calculate
+>
+						<script contentType="application/x-javascript"
+>
+if (UPI.rawValue == null) {
+   this.rawValue = PenFormNumber.rawValue + "000000000"; 
+}
+else {
+   if (UPI.rawValue &lt; 0){
+      UPI.rawValue = null;
+      this.rawValue = PenFormNumber.rawValue + "000000000";
+   }
+   else{
+      this.rawValue = PenFormNumber.rawValue + fRight.Right(("000000000" + UPI.rawValue),9);
+   }
+}
+</script
+>
+					</calculate
+>
+					<bind match="none"
+/>
+					<traversal
+>
+						<traverse ref="FromPS[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="FromPS" access="readOnly" x="43.655mm" y="11.114mm" h="3.493mm" w="9.127mm" presence="invisible"
+>
+					<ui
+>
+						<textEdit
+>
+							<border presence="hidden"
+>
+								<?templateDesigner StyleID aped0?>
+							</border
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<font typeface="Myriad Pro" size="6pt"
+/>
+					<margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/>
+					<para vAlign="middle"
+/>
+					<value
+>
+						<text
+>N</text
+>
+					</value
+>
+					<traversal
+>
+						<traverse ref="Title[0].ResetButton[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="PenFormNumber" w="9.127mm" h="3.493mm" access="readOnly" x="34.553mm" y="11.115mm" presence="invisible"
+>
+					<ui
+>
+						<textEdit
+>
+							<border presence="hidden"
+>
+								<?templateDesigner StyleID aped0?>
+							</border
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<font typeface="Myriad Pro"
+/>
+					<margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/>
+					<para vAlign="middle"
+/>
+					<value
+>
+						<text
+>751XXX</text
+>
+					</value
+>
+					<traversal
+>
+						<traverse ref="HiddenBC[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="UPI" w="43.18mm" h="13.493mm" locale="en_US" x="60.047mm" y="1.068mm"
+>
+					<ui
+>
+						<numericEdit hScrollPolicy="off"
+>
+							<border hand="right"
+>
+								<fill
+>
+									<color value="204,255,255"
+/>
+								</fill
+>
+								<edge
+/>
+							</border
+>
+							<margin
+/>
+							<comb numberOfCells="6"
+/>
+						</numericEdit
+>
+						<picture
+>num{zzzzzzzzzzzz9}</picture
+>
+					</ui
+>
+					<font typeface="Myriad Pro" weight="bold"
+/>
+					<margin topInset="1.016mm" bottomInset="1.016mm" leftInset="1.016mm" rightInset="1.016mm"
+/>
+					<para vAlign="middle"
+/>
+					<bind
+>
+						<picture
+>num{zzzzzzzzzzzz9}</picture
+>
+					</bind
+>
+					<format
+>
+						<picture
+>num{zzzzzzzzzzzz9}</picture
+>
+					</format
+>
+					<validate nullTest="error"
+>
+						<picture
+>num{zzzzzzzzzzzz9}</picture
+>
+					</validate
+>
+					<border
+>
+						<edge presence="hidden"
+/>
+						<corner thickness="0.175mm" presence="hidden"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="Sec_1[0].Name[0]"
+/>
+					</traversal
+>
+					<value
+>
+						<integer
+/>
+					</value
+>
+				</field
+>
+				<field name="Code128BarCode1" w="73.66mm" h="13.493mm" access="readOnly" x="112.015mm" y="1.027mm"
+>
+					<ui
+>
+						<barcode type="code128" wideNarrowRatio="fixed" checksum="auto" textLocation="belowEmbedded" dataLength="15"
+/>
+					</ui
+>
+					<font typeface="Courier New"
+/>
+					<calculate
+>
+						<script contentType="application/x-javascript"
+>
+//Code128BarCode1=xfa.resolveNode("HiddenBC")
+this.rawValue = HiddenBC.rawValue;
+
+</script
+>
+					</calculate
+>
+					<event activity="enter" name="event__enter"
+>
+						<script contentType="application/x-javascript"
+>
+xfa.host.setFocus(UPI);
+</script
+>
+					</event
+>
+					<traversal
+>
+						<traverse ref="StaticText8[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<?templateDesigner expand 1?>
+			</area
+>
+			<area y="44.456mm" name="Sec_1"
+>
+				<draw name="Header_1" w="101.6mm" h="4.699mm" x="0.102mm" y="0mm"
+>
+					<value
+>
+						<text
+>1. PARTICIPANT</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<para vAlign="middle" marginLeft="3.6pt" spaceAbove="1.5pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+					<font weight="bold" typeface="Arial" baselineShift="0pt"
+/>
+					<border
+>
+						<edge thickness="0.635mm"
+/>
+						<corner thickness="0.635mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="CurrencyPortionGrp[0].CurrencyPortionBox[0]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 288000 13320 0 0 0 0 0 0?>
+					<?renderCache.textRun 14 1. PARTICIPANT 0 3600 10306 0 0 0 "Arial" 1 0 10000 ISO-8859-1?>
+				</draw
+>
+				<field name="UPI2" y="4.78mm" w="25.4mm" h="9.284mm" access="readOnly"
+>
+					<ui
+>
+						<textEdit
+>
+							<border presence="hidden"
+>
+								<?templateDesigner StyleID aped0?>
+							</border
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<font typeface="Arial" size="12pt"
+/>
+					<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+					<para vAlign="middle" hAlign="right" marginRight="7.2pt" marginLeft="7.2pt"
+/>
+					<caption placement="top" reserve="2.794mm"
+>
+						<value
+>
+							<text
+>Staff/UPI No.</text
+>
+						</value
+>
+						<font typeface="Arial" size="7pt" weight="bold" baselineShift="0pt"
+/>
+						<para vAlign="middle" marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+					</caption
+>
+					<border
+>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+					</border
+>
+					<calculate
+>
+						<script contentType="application/x-javascript"
+>if (UPI.rawValue == null) {
+   this.rawValue = ""; 
+}
+else {
+   this.rawValue = UPI.rawValue; 
+}
+</script
+>
+					</calculate
+>
+					<bind match="none"
+/>
+					<traversal
+>
+						<traverse ref="UPIgrp[0].PenFormNumber[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="Name" y="4.78mm" w="127mm" h="9.284mm" x="25.4mm"
+>
+					<ui
+>
+						<textEdit hScrollPolicy="off"
+>
+							<border presence="hidden"
+>
+								<?templateDesigner StyleID aped0?>
+							</border
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<font typeface="Arial" size="12pt"
+/>
+					<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+					<para vAlign="middle" marginRight="7.2pt" marginLeft="7.2pt"
+/>
+					<caption placement="top" reserve="2.794mm"
+>
+						<value
+>
+							<exData contentType="text/html"
+>
+								<body
+									xmlns="http://www.w3.org/1999/xhtml"
+									xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+>
+									<p style="text-decoration:none;letter-spacing:0in"
+>Name
+										<span style="xfa-spacerun:yes"
+></span
+>
+										<span style="font-weight:normal;font-style:italic"
+>(Last, First, M.I.)</span
+>
+									</p
+>
+								</body
+>
+							</exData
+>
+						</value
+>
+						<font typeface="Arial" size="7pt" baselineShift="0pt" weight="bold"
+/>
+						<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="7.2pt"
+/>
+					</caption
+>
+					<border
+>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+					</border
+>
+					<bind match="none"
+/>
+					<validate nullTest="warning"
+/>
+					<traversal
+>
+						<traverse ref="ResidentcyDate[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="ResidentcyDate" y="4.78mm" x="152.4mm" w="38.1mm" h="9.284mm"
+>
+					<ui
+>
+						<dateTimeEdit
+>
+							<margin
+/>
+						</dateTimeEdit
+>
+						<picture
+>date{MMMM D, YYYY}</picture
+>
+					</ui
+>
+					<font size="12pt" typeface="Arial"
+/>
+					<margin leftInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm" topInset="0.5002mm"
+/>
+					<para vAlign="middle" marginLeft="7.2pt"
+/>
+					<value
+>
+						<date
+/>
+					</value
+>
+					<caption reserve="2.794mm" placement="top"
+>
+						<value
+>
+							<text
+>Effective Residency Date</text
+>
+						</value
+>
+						<font size="7pt" typeface="Arial" baselineShift="0pt" weight="bold"
+/>
+						<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="7.2pt" vAlign="bottom" hAlign="right"
+/>
+					</caption
+>
+					<border
+>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="AddressGrp[0].Address_of_Principal_Residence_1[0]"
+/>
+					</traversal
+>
+					<validate nullTest="warning"
+/>
+					<format
+>
+						<picture
+>date{MMMM D, YYYY}</picture
+>
+					</format
+>
+				</field
+>
+				<area y="14.064mm" name="AddressGrp"
+>
+					<draw y="0mm" w="190.5mm" h="18.366mm" name="AddressBox"
+>
+						<font typeface="Arial" size="7pt" baselineShift="0pt"
+/>
+						<ui
+>
+							<textEdit
+/>
+						</ui
+>
+						<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+						<border
+>
+							<edge thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge thickness="0.4293mm"
+/>
+							<edge thickness="0.1753mm"
+/>
+							<edge thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm"
+/>
+						</border
+>
+						<value
+>
+							<exData contentType="text/html"
+>
+								<body
+									xmlns="http://www.w3.org/1999/xhtml"
+									xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+>
+									<p style="font-weight:bold;text-decoration:none;letter-spacing:0in"
+>Address of Principal Residence
+										<span style="xfa-spacerun:yes"
+></span
+>
+										<span style="font-weight:normal;font-style:italic"
+>(attach appropriate evidence of residence in country -- see the continuation of this page)</span
+>
+									</p
+>
+								</body
+>
+							</exData
+>
+						</value
+>
+						<para spaceAbove="0.5pt" spaceBelow="0pt" textIndent="0pt" marginLeft="7.2pt" marginRight="0pt"
+/>
+						<traversal
+>
+							<traverse ref="Address_of_Principal_Residence_2[0]"
+/>
+						</traversal
+>
+					</draw
+>
+					<field name="Address_of_Principal_Residence_1" y="3.942mm" h="6.518mm" w="185.42mm" x="2.54mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+							<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<traversal
+>
+							<traverse ref="Title[0].G23[0]"
+/>
+						</traversal
+>
+						<margin leftInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm" topInset="0.5002mm"
+/>
+					</field
+>
+					<field name="Address_of_Principal_Residence_2" y="10.46mm" w="185.42mm" h="6.518mm" x="2.54mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+							<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+						</border
+>
+						<traversal
+>
+							<traverse ref="Currency_Name[0]"
+/>
+						</traversal
+>
+						<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+					</field
+>
+					<?templateDesigner expand 0?>
+				</area
+>
+				<field name="Currency_Name" y="32.432mm" w="50.8mm" h="10.16mm"
+>
+					<ui
+>
+						<textEdit hScrollPolicy="off"
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<para vAlign="middle" marginLeft="7.2pt"
+/>
+					<font size="12pt" typeface="Arial"
+/>
+					<border
+>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+					</border
+>
+					<validate nullTest="warning"
+/>
+					<caption placement="top" reserve="2.794mm"
+>
+						<value
+>
+							<text
+>Currency Name</text
+>
+						</value
+>
+						<font size="7pt" typeface="Arial" weight="bold" baselineShift="0pt"
+/>
+						<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="7.2pt" vAlign="middle"
+/>
+					</caption
+>
+					<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+					<traversal
+>
+						<traverse ref="CurrencyPortionGrp[0].CurrencyPercentage[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<area x="50.8mm" y="32.432mm" name="CurrencyPortionGrp"
+>
+					<draw y="0mm" w="139.7mm" h="10.16mm" name="CurrencyPortionBox"
+>
+						<font typeface="Myriad Pro" baselineShift="0pt"
+/>
+						<value
+>
+							<exData contentType="text/html"
+>
+								<body
+									xmlns="http://www.w3.org/1999/xhtml"
+									xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+									<p style="margin-top:2pt;font-family:Arial;font-size:9pt;font-weight:bold;letter-spacing:0in"
+>Percentage of Pension to be Received in Currency Other Than US Dollars</p
+>
+									<p style="font-family:Arial;font-size:8pt;letter-spacing:0in"
+>(if less than 100%, balance will be paid in US dollars)</p
+>
+								</body
+>
+							</exData
+>
+						</value
+>
+						<ui
+>
+							<textEdit
+/>
+						</ui
+>
+						<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+						<traversal
+>
+							<traverse ref="AddressGrp[0].AddressBox[0]"
+/>
+						</traversal
+>
+						<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+						<border
+>
+							<edge thickness="0.1753mm" presence="hidden"
+/>
+							<corner thickness="0.175mm" presence="hidden"
+/>
+							<edge thickness="0.4293mm"
+/>
+							<edge thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm" presence="hidden"
+/>
+							<edge thickness="0.1753mm" presence="hidden"
+/>
+						</border
+>
+					</draw
+>
+					<exclGroup name="CurrencyPercentage" y="4.82mm" x="71.42mm"
+>
+						<?templateDesigner itemValuesSpecified 1?>
+						<border
+>
+							<edge thickness="0.4293mm" presence="hidden"
+/>
+							<corner thickness="0.429mm" presence="hidden"
+/>
+						</border
+>
+						<field w="15.18mm" h="4.318mm" name="one"
+>
+							<ui
+>
+								<checkButton mark="check"
+>
+									<border
+>
+										<fill
+>
+											<color value="255, 255, 255"
+/>
+										</fill
+>
+										<?templateDesigner StyleID apcb1?>
+									</border
+>
+								</checkButton
+>
+							</ui
+>
+							<font typeface="Myriad Pro"
+/>
+							<margin leftInset="1mm" rightInset="1mm"
+/>
+							<para vAlign="middle"
+/>
+							<caption placement="right" reserve="9.18mm"
+>
+								<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt" vAlign="middle"
+/>
+								<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+								<value
+>
+									<text
+>25%</text
+>
+								</value
+>
+							</caption
+>
+							<border
+>
+								<edge thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+							</border
+>
+							<items
+>
+								<text
+>1</text
+>
+							</items
+>
+						</field
+>
+						<field w="17.393mm" h="4.318mm" name="two" x="15.191mm"
+>
+							<ui
+>
+								<checkButton mark="check"
+>
+									<border
+>
+										<fill
+>
+											<color value="255, 255, 255"
+/>
+										</fill
+>
+										<?templateDesigner StyleID apcb1?>
+									</border
+>
+								</checkButton
+>
+							</ui
+>
+							<font typeface="Myriad Pro"
+/>
+							<margin leftInset="1mm" rightInset="1mm"
+/>
+							<para vAlign="middle"
+/>
+							<caption placement="right" reserve="11.393mm"
+>
+								<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt" vAlign="middle"
+/>
+								<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+								<value
+>
+									<text
+>50%</text
+>
+								</value
+>
+							</caption
+>
+							<border
+>
+								<edge thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+							</border
+>
+							<items
+>
+								<text
+>2</text
+>
+							</items
+>
+						</field
+>
+						<field w="17.393mm" h="4.318mm" name="three" x="32.597mm"
+>
+							<ui
+>
+								<checkButton mark="check"
+>
+									<border
+>
+										<fill
+>
+											<color value="255, 255, 255"
+/>
+										</fill
+>
+										<?templateDesigner StyleID apcb1?>
+									</border
+>
+								</checkButton
+>
+							</ui
+>
+							<font typeface="Myriad Pro"
+/>
+							<margin leftInset="1mm" rightInset="1mm"
+/>
+							<para vAlign="middle"
+/>
+							<caption placement="right" reserve="11.393mm"
+>
+								<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt" vAlign="middle"
+/>
+								<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+								<value
+>
+									<text
+>75%</text
+>
+								</value
+>
+							</caption
+>
+							<border
+>
+								<edge thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+							</border
+>
+							<items
+>
+								<text
+>3</text
+>
+							</items
+>
+						</field
+>
+						<field w="17.393mm" h="4.318mm" name="four" x="49.971mm"
+>
+							<ui
+>
+								<checkButton mark="check"
+>
+									<border
+>
+										<fill
+>
+											<color value="255, 255, 255"
+/>
+										</fill
+>
+										<?templateDesigner StyleID apcb1?>
+									</border
+>
+								</checkButton
+>
+							</ui
+>
+							<font typeface="Myriad Pro"
+/>
+							<margin leftInset="1mm" rightInset="1mm"
+/>
+							<para vAlign="middle"
+/>
+							<caption placement="right" reserve="11.393mm"
+>
+								<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt" vAlign="middle"
+/>
+								<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+								<value
+>
+									<text
+>100%</text
+>
+								</value
+>
+							</caption
+>
+							<border
+>
+								<edge thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+							</border
+>
+							<items
+>
+								<text
+>4</text
+>
+							</items
+>
+						</field
+>
+						<traversal
+>
+							<traverse ref="Sec_2[0].Sec_2a[0].Acct\._No[0]"
+/>
+						</traversal
+>
+						<?templateDesigner expand 0?>
+					</exclGroup
+>
+					<?templateDesigner expand 0?>
+				</area
+>
+				<?templateDesigner expand 0?>
+			</area
+>
+			<area y="89.058mm" name="Sec_2"
+>
+				<draw name="Header_2" w="101.6mm" h="4.699mm" x="0.101mm"
+>
+					<value
+>
+						<text
+>2. INSTRUCTION FOR PAYMENT OF MONTHLY PENSION</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<para marginLeft="3.6pt" spaceAbove="1.5pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt" vAlign="middle"
+/>
+					<font weight="bold" typeface="Arial" baselineShift="0pt"
+/>
+					<border
+>
+						<edge thickness="0.635mm"
+/>
+						<corner thickness="0.635mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="Sec_2a[0].Header_2a[0]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 288000 13320 0 0 0 0 0 0?>
+					<?renderCache.textRun 45 2. INSTRUCTION FOR PAYMENT OF MONTHLY PENSION 0 3600 10306 0 0 0 "Arial" 1 0 10000 ISO-8859-1?>
+				</draw
+>
+				<area y="4.826mm" name="Sec_2a"
+>
+					<draw w="95.25mm" h="4.285mm" name="Header_2a"
+>
+						<font typeface="Myriad Pro"
+/>
+						<value
+>
+							<exData contentType="text/html"
+>
+								<body
+									xmlns="http://www.w3.org/1999/xhtml"
+									xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+									<p style="font-family:Arial;font-size:8pt;font-weight:bold;letter-spacing:0in"
+>A. For US Dollar Currency</p
+>
+								</body
+>
+							</exData
+>
+						</value
+>
+						<ui
+>
+							<textEdit
+/>
+						</ui
+>
+						<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+						<border
+>
+							<edge thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<edge thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<edge thickness="0.1753mm"
+/>
+							<edge thickness="0.4293mm"
+/>
+						</border
+>
+						<para hAlign="center" vAlign="bottom"
+/>
+						<traversal
+>
+							<traverse ref="Sec_2b[0].Acct\._No_NON_US[0]"
+/>
+						</traversal
+>
+					</draw
+>
+					<field name="Acct._No" y="4.285mm" w="38.1mm" h="9.284mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<caption placement="top" reserve="2.794mm"
+>
+							<value
+>
+								<text
+>Account No.</text
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" weight="bold" baselineShift="0pt"
+/>
+							<para vAlign="middle" marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+						<traversal
+>
+							<traverse ref="ABA_SWIFT[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<field name="ABA_SWIFT" x="38.1mm" y="4.285mm" w="57.15mm" h="9.284mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<caption placement="top" reserve="2.794mm"
+>
+							<value
+>
+								<exData contentType="text/html"
+>
+									<body
+										xmlns="http://www.w3.org/1999/xhtml"
+										xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+										<p style="font-weight:bold;letter-spacing:0in"
+>ABA No./SWIFT BIC
+											<span style="font-weight:normal"
+>
+												<span style="xfa-spacerun:yes"
+></span
+>
+											</span
+>
+											<span style="font-weight:normal;font-style:italic"
+>(provided by your bank)</span
+>
+										</p
+>
+									</body
+>
+								</exData
+>
+							</value
+>
+							<font size="7pt" typeface="Arial"
+/>
+							<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+						<traversal
+>
+							<traverse ref="IBAN_No_US[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<field name="IBAN_No_US" y="13.569mm" w="95.25mm" h="6.518mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="3.6pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+						</border
+>
+						<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+						<caption reserve="15.24mm"
+>
+							<value
+>
+								<text
+>IBAN No.</text
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" weight="bold"
+/>
+							<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<traversal
+>
+							<traverse ref="AccountTypeGrp[0].AccountType[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<area y="20.087mm" name="AccountTypeGrp"
+>
+						<draw name="AccountTypeBox" y="0mm" w="95.25mm" h="9.312mm"
+>
+							<value
+>
+								<text
+>Type of Account</text
+>
+							</value
+>
+							<ui
+>
+								<textEdit
+/>
+							</ui
+>
+							<para marginLeft="7.2pt" spaceAbove="2pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+							<font size="7pt" typeface="Arial" baselineShift="0pt" weight="bold"
+/>
+							<traversal
+>
+								<traverse ref="US_BankAddressGrp[0].US_BankAddressBox[0]"
+/>
+							</traversal
+>
+							<border
+>
+								<edge thickness="0.1753mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<edge thickness="0.1753mm"
+/>
+								<edge thickness="0.1753mm"
+/>
+								<edge thickness="0.4293mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm"
+/>
+							</border
+>
+							<?renderCache.bounds 270000 26396 0 0 0 0 0 0?>
+							<?renderCache.textRun 15 Type of Account 0 7200 7527 0 0 0 "Arial" 1 0 7000 ISO-8859-1?>
+						</draw
+>
+						<exclGroup name="AccountType" y="3.36mm" x="4.289mm"
+>
+							<?templateDesigner itemValuesSpecified 1?>
+							<border
+>
+								<edge thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+							</border
+>
+							<traversal
+>
+								<traverse ref="Other_Type[0]"
+/>
+							</traversal
+>
+							<field w="18.286mm" h="4.956mm" name="Checking" y="0.001mm"
+>
+								<ui
+>
+									<checkButton mark="check"
+>
+										<border
+>
+											<fill
+>
+												<color value="255, 255, 255"
+/>
+											</fill
+>
+											<?templateDesigner StyleID apcb1?>
+										</border
+>
+									</checkButton
+>
+								</ui
+>
+								<font typeface="Myriad Pro"
+/>
+								<margin leftInset="1mm" rightInset="1mm"
+/>
+								<para vAlign="middle"
+/>
+								<caption placement="right" reserve="12.286mm"
+>
+									<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="1.44pt" marginRight="0pt" vAlign="middle"
+/>
+									<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+									<value
+>
+										<text
+>Checking</text
+>
+									</value
+>
+								</caption
+>
+								<border
+>
+									<edge thickness="0.4293mm" presence="hidden"
+/>
+									<corner thickness="0.429mm" presence="hidden"
+/>
+								</border
+>
+								<items
+>
+									<text
+>C</text
+>
+								</items
+>
+							</field
+>
+							<field w="26.193mm" h="4.956mm" name="Other" x="20.056mm"
+>
+								<ui
+>
+									<checkButton mark="check"
+>
+										<border
+>
+											<fill
+>
+												<color value="255, 255, 255"
+/>
+											</fill
+>
+											<?templateDesigner StyleID apcb1?>
+										</border
+>
+									</checkButton
+>
+								</ui
+>
+								<font typeface="Myriad Pro"
+/>
+								<margin leftInset="1mm" rightInset="1mm"
+/>
+								<para vAlign="middle"
+/>
+								<caption placement="right" reserve="20.193mm"
+>
+									<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0.72pt" marginRight="0pt" vAlign="middle"
+/>
+									<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+									<value
+>
+										<exData contentType="text/html"
+>
+											<body
+												xmlns="http://www.w3.org/1999/xhtml"
+												xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+												<p style="letter-spacing:0in"
+>Other
+													<span style="xfa-spacerun:yes"
+></span
+>
+													<span style="font-style:italic"
+>(indicate)</span
+>
+												</p
+>
+											</body
+>
+										</exData
+>
+									</value
+>
+								</caption
+>
+								<border
+>
+									<edge thickness="0.4293mm" presence="hidden"
+/>
+									<corner thickness="0.429mm" presence="hidden"
+/>
+								</border
+>
+								<items
+>
+									<text
+>O</text
+>
+								</items
+>
+							</field
+>
+							<?templateDesigner expand 0?>
+						</exclGroup
+>
+						<field name="Other_Type" x="51.503mm" y="3.104mm" w="41.98mm" h="5.292mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+									<border
+>
+										<edge presence="hidden"
+/>
+										<edge presence="hidden"
+/>
+										<edge
+/>
+										<edge presence="hidden"
+/>
+										<?templateDesigner StyleID aped1?>
+									</border
+>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt" marginRight="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" stroke="dashDotDot" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" stroke="dashDotDot" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" stroke="dashDotDot" presence="hidden"
+/>
+							</border
+>
+							<traversal
+>
+								<traverse ref="Bank_Name_US[0]"
+/>
+							</traversal
+>
+						</field
+>
+						<?templateDesigner expand 1?>
+					</area
+>
+					<field name="Bank_Name_US" y="29.398mm" h="9.312mm" w="95.25mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<traversal
+>
+							<traverse ref="US_BankAddressGrp[0].Bank_Address_1_US[0]"
+/>
+						</traversal
+>
+						<caption placement="top" reserve="2.794mm"
+>
+							<value
+>
+								<text
+>Bank Name</text
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" weight="bold"
+/>
+							<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<margin leftInset="0.5002mm" rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm"
+/>
+					</field
+>
+					<area y="38.71mm" name="US_BankAddressGrp"
+>
+						<draw y="0mm" w="95.25mm" h="53mm" name="US_BankAddressBox"
+>
+							<font typeface="Arial" size="8pt" baselineShift="0pt"
+/>
+							<value
+>
+								<exData contentType="text/html"
+>
+									<body
+										xmlns="http://www.w3.org/1999/xhtml"
+										xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+										<p style="font-size:7pt;font-weight:bold;letter-spacing:0in"
+>Bank Address
+											<span style="font-size:9pt"
+>
+												<span style="xfa-spacerun:yes"
+></span
+>
+											</span
+>
+										</p
+>
+										<p style="font-size:7pt;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:9pt;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:9pt;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:9pt;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:9pt;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:7pt;xfa-font-vertical-scale:90%;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:7pt;font-weight:bold;letter-spacing:0in"
+>Electronic Funds Transfer
+											<span style="xfa-spacerun:yes"
+></span
+>
+											<span style="font-weight:normal"
+>(please read note below)</span
+>
+										</p
+>
+										<p style="font-size:7pt;xfa-font-vertical-scale:30%;font-weight:bold;letter-spacing:0in"
+>
+											<span style="xfa-spacerun:yes"
+></span
+>
+										</p
+>
+										<p style="font-size:7pt;font-weight:bold;letter-spacing:0in"
+>NOTE
+											<span style="xfa-tab-count:1"
+></span
+>
+											<span style="font-weight:normal"
+>I am aware that payments will be processed electronically to my</span
+>
+										</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>banking institution as designated above.</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>
+											<span style="xfa-tab-count:1"
+></span
+>In the event that funds to which I am not entitled may be deposited
+										</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>into my account, I authorize the Staff Retirement Plan to initiate, if necessary,</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>debit entries to my account to recover those funds. This authority is to remain in</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>full force and effect until I notify the Staff Retirement Plan in writing of its</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>termination in such time and in such manner as to afford the Staff Retirement</p
+>
+										<p style="font-size:7pt;letter-spacing:0in"
+>Plan a reasonable opportunity to cancel my previous authorization.</p
+>
+									</body
+>
+								</exData
+>
+							</value
+>
+							<ui
+>
+								<textEdit
+/>
+							</ui
+>
+							<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+							<traversal
+>
+								<traverse ref="Instr_2[0]"
+/>
+							</traversal
+>
+							<border
+>
+								<edge thickness="0.1753mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm"
+/>
+								<edge thickness="0.1753mm"
+/>
+								<edge thickness="0.1753mm"
+/>
+								<edge thickness="0.4293mm"
+/>
+							</border
+>
+							<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="7.2pt" marginRight="0pt" vAlign="bottom"
+/>
+						</draw
+>
+						<field name="Bank_Address_1_US" y="4.531mm" h="6.518mm" w="90.17mm" x="2.54mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							</border
+>
+							<validate nullTest="warning"
+/>
+							<traversal
+>
+								<traverse ref="Bank_Address_2_US[0]"
+/>
+							</traversal
+>
+							<margin leftInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm" topInset="0.5002mm"
+/>
+						</field
+>
+						<field name="Bank_Address_2_US" y="11.049mm" w="90.17mm" h="6.518mm" x="2.54mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							</border
+>
+							<traversal
+>
+								<traverse ref="Bank_Address_3_US[0]"
+/>
+							</traversal
+>
+							<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+						</field
+>
+						<field name="Bank_Address_3_US" y="17.567mm" w="90.17mm" h="6.518mm" x="2.54mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							</border
+>
+							<traversal
+>
+								<traverse ref="Header_2[0]"
+/>
+							</traversal
+>
+							<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+						</field
+>
+						<?templateDesigner expand 1?>
+					</area
+>
+					<?templateDesigner expand 1?>
+				</area
+>
+				<area x="95.25mm" y="4.826mm" name="Sec_2b"
+>
+					<draw w="95.25mm" h="4.285mm" name="Header_2b"
+>
+						<font typeface="Arial" size="8pt" weight="bold" baselineShift="0pt"
+/>
+						<value
+>
+							<exData contentType="text/html"
+>
+								<body
+									xmlns="http://www.w3.org/1999/xhtml"
+									xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+									<p style="font-size:9pt;letter-spacing:0in"
+>B.
+										<span style="xfa-spacerun:yes"
+></span
+>
+										<span style="font-size:8pt"
+>For Non-US Dollar Currency</span
+>
+									</p
+>
+								</body
+>
+							</exData
+>
+						</value
+>
+						<ui
+>
+							<textEdit
+/>
+						</ui
+>
+						<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+						<border
+>
+							<edge thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge thickness="0.4293mm"
+/>
+							<edge thickness="0.1753mm"
+/>
+							<edge thickness="0.1753mm"
+/>
+						</border
+>
+						<para hAlign="center" vAlign="bottom" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/>
+						<traversal
+>
+							<traverse ref="PenAdmHeader[0]"
+/>
+						</traversal
+>
+					</draw
+>
+					<field name="Acct._No_NON_US" y="4.285mm" w="38.1mm" h="9.284mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<caption placement="top" reserve="2.794mm"
+>
+							<value
+>
+								<text
+>Account No.</text
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" weight="bold"
+/>
+							<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+						<traversal
+>
+							<traverse ref="ABA_SWIFT_NON_US[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<field name="ABA_SWIFT_NON_US" x="38.1mm" y="4.285mm" w="57.15mm" h="9.284mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<caption placement="top" reserve="2.794mm"
+>
+							<value
+>
+								<exData contentType="text/html"
+>
+									<body
+										xmlns="http://www.w3.org/1999/xhtml"
+										xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+										<p style="font-weight:bold;letter-spacing:0in"
+>Bank's SWIFT BIC
+											<span style="font-weight:normal"
+>
+												<span style="xfa-spacerun:yes"
+></span
+>
+											</span
+>
+											<span style="font-weight:normal;font-style:italic"
+>(provided by your bank)</span
+>
+										</p
+>
+									</body
+>
+								</exData
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" baselineShift="0pt"
+/>
+							<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+						<traversal
+>
+							<traverse ref="IBAN_No_NON_US[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<field name="IBAN_No_NON_US" y="13.569mm" w="95.25mm" h="6.518mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="3.6pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+						</border
+>
+						<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+						<caption reserve="15.24mm"
+>
+							<value
+>
+								<text
+>IBAN No.</text
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" baselineShift="0pt" weight="bold"
+/>
+							<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="7.2pt" vAlign="middle"
+/>
+						</caption
+>
+						<traversal
+>
+							<traverse ref="Bank_Name_NON_US[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<field name="Bank_Name_NON_US" w="95.25mm" h="9.312mm" y="20.087mm"
+>
+						<ui
+>
+							<textEdit hScrollPolicy="off"
+>
+								<margin
+/>
+							</textEdit
+>
+						</ui
+>
+						<para vAlign="middle" marginLeft="7.2pt"
+/>
+						<font size="12pt" typeface="Arial"
+/>
+						<border
+>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<corner thickness="0.429mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.4293mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+							<corner thickness="0.175mm"
+/>
+							<edge cap="butt" thickness="0.1753mm"
+/>
+						</border
+>
+						<validate nullTest="warning"
+/>
+						<caption placement="top" reserve="2.794mm"
+>
+							<value
+>
+								<text
+>Bank Name</text
+>
+							</value
+>
+							<font size="7pt" typeface="Arial" weight="bold"
+/>
+							<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+						</caption
+>
+						<margin leftInset="0.5002mm" rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm"
+/>
+						<traversal
+>
+							<traverse ref="NON_US_BankAddressGrp[0].Bank_Address_1_NON_US[0]"
+/>
+						</traversal
+>
+					</field
+>
+					<area y="29.398mm" name="NON_US_BankAddressGrp"
+>
+						<draw y="0mm" w="95.25mm" h="62.311mm" name="NON_US_BankAddressBox"
+>
+							<font typeface="Arial" size="7pt" baselineShift="0pt" weight="bold"
+/>
+							<ui
+>
+								<textEdit
+/>
+							</ui
+>
+							<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+							<border
+>
+								<edge thickness="0.1753mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<edge thickness="0.4293mm"
+/>
+								<edge thickness="0.1753mm"
+/>
+								<edge thickness="0.1753mm"
+/>
+								<corner thickness="0.429mm"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.175mm"
+/>
+							</border
+>
+							<value
+>
+								<text
+>Bank Address</text
+>
+							</value
+>
+							<para spaceAbove="1pt" spaceBelow="0pt" textIndent="0pt" marginLeft="7.2pt" marginRight="0pt"
+/>
+							<traversal
+>
+								<traverse ref="Header_2b[0]"
+/>
+							</traversal
+>
+							<?renderCache.bounds 267166 173796 0 0 1417 1417 0 0?>
+							<?renderCache.textRun 12 Bank Address 0 8617 7944 0 0 0 "Arial" 1 0 7000 ISO-8859-1?>
+						</draw
+>
+						<field name="Bank_Address_1_NON_US" y="4.224mm" w="90.17mm" h="6.518mm" x="2.54mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							</border
+>
+							<validate nullTest="warning"
+/>
+							<margin leftInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm" topInset="0.5002mm"
+/>
+							<traversal
+>
+								<traverse ref="Bank_Address_2_NON_US[0]"
+/>
+							</traversal
+>
+						</field
+>
+						<field name="Bank_Address_2_NON_US" y="10.741mm" w="90.17mm" h="6.518mm" x="2.54mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+							</border
+>
+							<traversal
+>
+								<traverse ref="Bank_Address_3_NON_US[0]"
+/>
+							</traversal
+>
+							<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+						</field
+>
+						<field name="Bank_Address_3_NON_US" y="17.258mm" w="90.17mm" h="6.518mm" x="2.54mm"
+>
+							<ui
+>
+								<textEdit hScrollPolicy="off"
+>
+									<margin
+/>
+								</textEdit
+>
+							</ui
+>
+							<para vAlign="middle" marginLeft="0pt"
+/>
+							<font size="12pt" typeface="Arial"
+/>
+							<border
+>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<corner thickness="0.175mm"
+/>
+								<corner thickness="0.429mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+								<edge cap="butt" thickness="0.1753mm"
+/>
+								<edge cap="butt" thickness="0.4293mm" presence="hidden"
+/>
+							</border
+>
+							<traversal
+>
+								<traverse ref="Acct\._No_2_A[0]"
+/>
+							</traversal
+>
+							<margin leftInset="0.5002mm" topInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm"
+/>
+						</field
+>
+						<?templateDesigner expand 1?>
+					</area
+>
+					<?templateDesigner expand 1?>
+				</area
+>
+				<draw y="96.535mm" w="190.5mm" h="5.08mm" name="Instr_2"
+>
+					<font typeface="ArialNarrow-BoldItalic" size="9pt" weight="bold" posture="italic" baselineShift="0pt"
+/>
+					<para vAlign="middle" hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="font-family:'Arial Narrow'"
+>Attach a void check or a deposit slip to this form. The check/deposit slip must be from the account to be credited for your pension payment.</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<border
+>
+						<edge thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="Warning_2[0]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 537166 11566 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 140 Attach a void check or a deposit slip to this form. The check/deposit slip must be from the account to be credited for your pension payment. 0 24335 9806 0 0 0 "Arial Narrow" 1 1 9000 ISO-8859-1?>
+				</draw
+>
+				<draw y="101.951mm" w="190.5mm" h="10.16mm" name="Warning_2"
+>
+					<font typeface="Myriad Pro"
+/>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="font-family:Arial;font-weight:bold;letter-spacing:0in"
+>If bank entered in 2.A. above is not located in the U.S., enter intermediary bank</p
+>
+								<p style="font-family:Arial;font-weight:bold;letter-spacing:0in"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>(contact your bank for this information)
+								</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<traversal
+>
+						<traverse ref="Bank_Name_2_A[0]"
+/>
+					</traversal
+>
+					<para vAlign="middle"
+/>
+				</draw
+>
+				<field name="Acct._No_2_A" y="112.149mm" w="63.5mm" h="9.312mm"
+>
+					<ui
+>
+						<textEdit hScrollPolicy="off"
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<para vAlign="middle" marginLeft="7.2pt"
+/>
+					<font size="12pt" typeface="Arial"
+/>
+					<border
+>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+					</border
+>
+					<validate nullTest="warning"
+/>
+					<caption placement="top" reserve="2.794mm"
+>
+						<value
+>
+							<text
+>Account No.</text
+>
+						</value
+>
+						<font size="7pt" typeface="Arial" weight="bold"
+/>
+						<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+					</caption
+>
+					<margin rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm" leftInset="0.5002mm"
+/>
+					<traversal
+>
+						<traverse ref="Sec_2a[0].AccountTypeGrp[0].AccountTypeBox[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="Bank_Name_2_A" w="127mm" h="9.312mm" x="63.5mm" y="112.149mm"
+>
+					<ui
+>
+						<textEdit hScrollPolicy="off"
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<para vAlign="middle" marginLeft="7.2pt"
+/>
+					<font size="12pt" typeface="Arial"
+/>
+					<border
+>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+					</border
+>
+					<validate nullTest="warning"
+/>
+					<caption placement="top" reserve="2.794mm"
+>
+						<value
+>
+							<text
+>Bank Name</text
+>
+						</value
+>
+						<font size="7pt" typeface="Arial" weight="bold"
+/>
+						<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+					</caption
+>
+					<margin leftInset="0.5002mm" rightInset="0.5002mm" topInset="0.5002mm" bottomInset="0.5002mm"
+/>
+					<traversal
+>
+						<traverse ref="Bank_Address_1_2_A[0]"
+/>
+					</traversal
+>
+				</field
+>
+				<field name="Bank_Address_1_2_A" y="121.461mm" w="190.5mm" h="9.312mm"
+>
+					<ui
+>
+						<textEdit hScrollPolicy="off"
+>
+							<margin
+/>
+						</textEdit
+>
+					</ui
+>
+					<para vAlign="middle" marginLeft="7.2pt"
+/>
+					<font size="12pt" typeface="Arial"
+/>
+					<border
+>
+						<edge cap="butt" thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+						<edge cap="butt" thickness="0.4293mm"
+/>
+					</border
+>
+					<validate nullTest="warning"
+/>
+					<caption placement="top" reserve="2.794mm"
+>
+						<value
+>
+							<text
+>Bank Address</text
+>
+						</value
+>
+						<font size="7pt" typeface="Arial" weight="bold"
+/>
+						<para vAlign="middle" marginLeft="7.2pt" marginRight="7.2pt"
+/>
+					</caption
+>
+					<margin leftInset="0.5002mm" rightInset="0.5002mm" bottomInset="0.5002mm" topInset="0.5002mm"
+/>
+					<traversal
+>
+						<traverse ref="Sec_Sig[0].DeclareSig[0]"
+/>
+					</traversal
+>
+					<event activity="exit" name="event__exit"
+>
+						<script contentType="application/x-javascript"
+>
+xfa.host.setFocus(UPI);
+</script
+>
+					</event
+>
+				</field
+>
+				<?templateDesigner expand 0?>
+			</area
+>
+			<area y="221.495mm" name="Sec_Sig"
+>
+				<draw y="0mm" w="190.5mm" h="8.65mm" name="DeclareSig"
+>
+					<font typeface="Myriad Pro"
+/>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="font-family:Arial;font-size:9pt;letter-spacing:0in"
+>
+									<span style="xfa-tab-count:1"
+></span
+>I made this election fully aware that the US dollar equivalent of the elected currency could be less than the pension that
+								</p
+>
+								<p style="font-family:Arial;font-size:9pt;letter-spacing:0in"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>would have been payable to me in US dollars, if I had not made this election.
+								</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<traversal
+>
+						<traverse ref="ClientSig[0]"
+/>
+					</traversal
+>
+					<border
+>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+					</border
+>
+					<para vAlign="middle"
+/>
+				</draw
+>
+				<draw y="8.65mm" w="139.7mm" h="9.312mm" name="ClientSig"
+>
+					<font typeface="Arial" size="7pt" baselineShift="0pt" weight="bold"
+/>
+					<value
+>
+						<text
+>Signature of Approval</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+					<border
+>
+						<edge thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="Sec_2[0].Sec_2b[0].NON_US_BankAddressGrp[0].NON_US_BankAddressBox[0]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 393166 23562 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 21 Signature of Approval 0 8617 6944 0 0 0 "Arial" 1 0 7000 ISO-8859-1?>
+				</draw
+>
+				<draw y="24.642mm" w="139.7mm" h="9.312mm" name="PenSig"
+>
+					<font typeface="Arial" size="7pt" baselineShift="0pt" weight="bold"
+/>
+					<value
+>
+						<text
+>Signature of Approval</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+					<border
+>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="PenSigDate[0]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 393166 23562 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 21 Signature of Approval 0 8617 6944 0 0 0 "Arial" 1 0 7000 ISO-8859-1?>
+				</draw
+>
+				<draw x="139.7mm" y="24.642mm" w="50.8mm" h="9.312mm" name="PenSigDate"
+>
+					<font typeface="Arial" size="7pt" baselineShift="0pt" weight="bold"
+/>
+					<value
+>
+						<text
+>Date</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+					<traversal
+>
+						<traverse ref="FormNo[0]"
+/>
+					</traversal
+>
+					<border
+>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+					</border
+>
+					<?renderCache.bounds 141166 23562 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 4 Date 0 8617 6944 0 0 0 "Arial" 1 0 7000 ISO-8859-1?>
+				</draw
+>
+				<draw x="171.241mm" y="35.478mm" w="18.559mm" h="3.469mm" name="FormNo"
+>
+					<font typeface="Arial" size="7pt" baselineShift="0pt"
+/>
+					<value
+>
+						<text
+>751 (10-2010)</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<traversal
+>
+						<traverse ref="Title[0].T2[0]"
+/>
+					</traversal
+>
+					<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt" hAlign="right"
+/>
+					<?renderCache.bounds 49774 6999 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 13 751 (10-2010) 0 7215 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?>
+				</draw
+>
+				<?templateDesigner expand 0?>
+				<draw x="139.7mm" y="8.65mm" w="50.8mm" h="9.312mm" name="PenSigDate"
+>
+					<font typeface="Arial" size="7pt" baselineShift="0pt" weight="bold"
+/>
+					<value
+>
+						<text
+>Date</text
+>
+					</value
+>
+					<ui
+>
+						<textEdit
+/>
+					</ui
+>
+					<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+					<para marginLeft="7.2pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginRight="0pt"
+/>
+					<border
+>
+						<edge thickness="0.1753mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.429mm"
+/>
+						<corner thickness="0.175mm"
+/>
+						<edge thickness="0.4293mm"
+/>
+						<edge thickness="0.1753mm"
+/>
+					</border
+>
+					<traversal
+>
+						<traverse ref="T68[0]"
+/>
+					</traversal
+>
+					<?renderCache.bounds 141166 23562 0 0 1417 1417 0 0?>
+					<?renderCache.textRun 4 Date 0 8617 6944 0 0 0 "Arial" 1 0 7000 ISO-8859-1?>
+				</draw
+>
+			</area
+>
+			<draw x="50.8mm" w="88.9mm" h="6.35mm" y="239.531mm" name="PenAdmHeader"
+>
+				<font typeface="Myriad Pro"
+/>
+				<value
+>
+					<exData contentType="text/html"
+>
+						<body
+							xmlns="http://www.w3.org/1999/xhtml"
+							xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+							<p style="font-family:Arial;font-size:12pt;font-weight:bold;letter-spacing:0in"
+>For Pension Administration Use Only</p
+>
+						</body
+>
+					</exData
+>
+				</value
+>
+				<ui
+>
+					<textEdit
+/>
+				</ui
+>
+				<margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"
+/>
+				<traversal
+>
+					<traverse ref="Sec_Sig[0].PenSig[0]"
+/>
+				</traversal
+>
+				<para vAlign="bottom" hAlign="center"
+/>
+			</draw
+>
+			<draw name="T68" w="114.3mm" h="5.08mm" y="256.662mm" x="38.1mm"
+>
+				<value
+>
+					<text
+>Completed forms:       Mail MSN C 7-702       Drop-off MC 1-850</text
+>
+				</value
+>
+				<ui
+>
+					<textEdit
+/>
+				</ui
+>
+				<para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt" hAlign="center"
+/>
+				<font size="8pt" typeface="Arial" baselineShift="0pt"
+/>
+				<?renderCache.bounds 324000 14400 0 0 0 0 0 0?>
+				<?renderCache.textRun 63 Completed forms:       Mail MSN C 7-702       Drop-off MC 1-850 0 49076 9516 0 0 0 "Arial" 0 0 8000 ISO-8859-1?>
+			</draw
+>
+			<field name="PrintButton" w="146.05mm" h="9.534mm" y="256.26mm" relevant="-print" x="12.7mm"
+>
+				<?templateDesigner isPrintObject true?>
+				<ui
+>
+					<button highlight="inverted"
+/>
+				</ui
+>
+				<font typeface="Myriad Pro"
+/>
+				<caption
+>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+>
+								<p style="font-family:Verdana;font-size:7.5pt;color:#ff0000;letter-spacing:0in"
+>Please ensure ALL information in the submission form is complete and accurate before printing the form.</p
+>
+								<p style="font-family:Verdana;font-size:7.5pt;color:#ff0000;letter-spacing:0in"
+>Click here to
+									<span style="font-size:7pt;color:#000000"
+>
+										<span style="xfa-spacerun:yes"
+></span
+>
+									</span
+>
+									<span style="font-family:'Myriad Pro';font-size:10pt;color:#000000;font-weight:bold"
+>Print Form</span
+>
+								</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<para hAlign="center" vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/>
+					<font typeface="Myriad Pro" size="7pt" baselineShift="0pt"
+/>
+				</caption
+>
+				<border hand="right"
+>
+					<?templateDesigner StyleID apbx2?>
+					<edge stroke="raised"
+/>
+					<fill
+>
+						<color value="212,208,200"
+/>
+					</fill
+>
+				</border
+>
+				<bind match="none"
+/>
+				<event name="event__click" activity="click"
+>
+					<script contentType="application/x-javascript"
+>
+xfa.host.print(1, "0", (xfa.host.numPages -1).toString(), 0, 0, 0, 0, 0);
+
+</script
+>
+				</event
+>
+				<traversal
+>
+					<traverse ref="Sec_Sig[0].PenSigDate[1]"
+/>
+				</traversal
+>
+			</field
+>
+			<field name="Disclaimer" y="17.14mm" w="190.5mm" h="250.236mm"
+>
+				<ui
+>
+					<button highlight="inverted"
+/>
+				</ui
+>
+				<font typeface="Myriad Pro"
+/>
+				<caption
+>
+					<value
+>
+						<exData contentType="text/html"
+>
+							<body
+								xmlns="http://www.w3.org/1999/xhtml"
+								xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+>
+								<p style="font-family:Arial;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-size:18pt;font-weight:bold"
+>To view the form, please enable JavaScript in your PDF reader and click anywhere on the yellow area.</p
+>
+								<p style="font-family:Arial;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-size:18pt;font-weight:bold"
+>If after clicking on the yellow area, you cannot view the form, it means that JavaScript has not been enabled in your PDF reader.</p
+>
+								<p style="font-family:Arial;font-size:18pt;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-size:18pt;font-weight:bold"
+>Please enable the JavaScript in your PDF reader before proceeding further.</p
+>
+								<p style="font-family:Arial;font-size:18pt;font-weight:bold"
+>
+									<span style="xfa-spacerun:yes"
+></span
+>
+								</p
+>
+								<p style="font-family:Arial;font-size:18pt;font-weight:bold"
+>This form requires Adobe
+									<span style="vertical-align:6pt;font-family:Symbol;font-size:8pt;font-weight:normal"
+>Ò</span
+> Acrobat
+									<span style="vertical-align:6pt;font-family:Symbol;font-size:8pt;font-weight:normal"
+>Ò</span
+> reader version 9.0 or later.
+									<br
+/>
+									<span style="font-size:14pt"
+>
+										<br
+/>
+										<br
+/>
+										<br
+/>
+										<br
+/>
+									</span
+>
+									<span style="font-size:16pt;color:#000000"
+>Note: For all questions about this form, please contact the Pension Administration (x82977).</span
+>
+									<span style="font-size:11pt"
+>
+										<br
+/>
+									</span
+>
+									<span style="font-size:14pt"
+>
+										<br
+/>
+										<br
+/>
+									</span
+>
+									<br
+/>
+								</p
+>
+							</body
+>
+						</exData
+>
+					</value
+>
+					<font typeface="Myriad Pro" size="14pt" baselineShift="0pt"
+>
+						<fill
+>
+							<color value="255,0,0"
+/>
+						</fill
+>
+					</font
+>
+					<para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="36pt" marginRight="36pt"
+/>
+				</caption
+>
+				<border hand="right"
+>
+					<edge
+>
+						<color value="255,0,0"
+/>
+					</edge
+>
+					<fill
+>
+						<color value="255,255,0"
+/>
+					</fill
+>
+					<corner thickness="0.175mm"
+>
+						<color value="255,0,0"
+/>
+					</corner
+>
+				</border
+>
+				<bind match="none"
+/>
+				<event activity="click" name="event__click"
+>
+					<script contentType="application/x-javascript"
+>
+   xfa.host.setFocus(UPI);
+   this.presence = "hidden";
+   if (UPIgrp.FromPS.rawValue = 'N')
+      this.Form751.UPIgrp.FromPS.rawValue = 'J';
+   else
+      if (UPIgrp.FromPS.rawValue = 'S')
+         this.Form751.UPIgrp.FromPS.rawValue = 'K';
+   </script
+>
+				</event
+>
+				<event activity="exit" name="event__exit"
+>
+					<script contentType="application/x-javascript"
+>
+xfa.host.setFocus(Disclaimer);
+</script
+>
+				</event
+>
+				<event activity="docReady" ref="$host" name="event__docReady"
+>
+					<script contentType="application/x-javascript"
+>
+if (UPIgrp.FromPS.rawValue == "Y"){
+   this.presence = "invisible";
+   xfa.host.setFocus(PrintButton);
+}
+if (UPIgrp.FromPS.rawValue == "J"){
+   this.presence = "invisible";
+   xfa.host.setFocus(UPIgrp.UPI);
+}
+if (UPIgrp.FromPS.rawValue == "K"){
+   this.presence = "invisible";
+   xfa.host.setFocus(OptionGrp.Option);
+}
+</script
+>
+				</event
+>
+				<traversal
+>
+					<traverse ref="UPIgrp[0].UPI[0]"
+/>
+				</traversal
+>
+			</field
+>
+			<bind match="none"
+/>
+			<traversal
+>
+				<traverse operation="first" ref="Disclaimer[0]"
+/>
+			</traversal
+>
+			<breakBefore targetType="pageArea" target="PageArea1"
+/>
+			<?templateDesigner expand 1?>
+		</subform
+>
+		<proto
+/>
+		<variables
+>
+			<script contentType="application/x-javascript" name="fRight"
+>function Right(str, n){
+    if (n &lt;= 0)
+       return "";
+    else if (n &gt; String(str).length)
+       return str;
+    else {
+       var iLen = String(str).length;
+       return String(str).substring(iLen, iLen - n);
+    }
+}
+
+
+</script
+>
+			<?templateDesigner expand 1?>
+		</variables
+>
+		<?templateDesigner Hyphenation excludeInitialCap:1, excludeAllCaps:1, wordCharCnt:7, remainCharCnt:3, pushCharCnt:3?>
+		<event activity="prePrint" ref="$host" name="event__prePrint"
+>
+			<script contentType="application/x-javascript"
+>
+var v_upi = topmostSubform.Form751.UPIgrp.UPI.rawValue;
+
+if (v_upi == null || v_upi == "0"){
+   xfa.event.cancelAction = 1;
+   if (topmostSubform.Form751.Disclaimer.presence == "visible"){
+      xfa.host.setFocus(topmostSubform.Form751.Disclaimer);
+      xfa.host.messageBox("Please click yellow area to start.", "Form 751", 3);
+   }
+   else{      
+      xfa.host.setFocus(topmostSubform.Form751.UPIgrp.UPI);
+      xfa.host.messageBox("Please enter your UPI", "Form 751", 3);
+   }
+}
+
+</script
+>
+		</event
+>
+		<event activity="initialize" name="event__initialize"
+>
+			<script contentType="application/x-javascript"
+>
+var sURL = event.target.URL;
+var nRequestStart = sURL.indexOf("?");
+
+// xfa.host.messageBox(this.Form751.UPIgrp.FromPS.rawValue);
+
+if (nRequestStart &gt; 0){
+   var sRequest = sURL.substr(nRequestStart + 1);
+   var aRequests = sRequest.split("&amp;");
+
+   for (var i = 0; i &lt; aRequests.length; i++){
+      var aNameValue = aRequests[i].split("=");
+      var sName = aNameValue[0];
+      var sValue = "";
+      
+      try{
+         sValue = decodeURI(decodeURIComponent(aNameValue[1]));
+      }
+      catch (e){
+         continue;    // invalid URL encoding found -- skip
+      }
+      if (sName.toUpperCase() == "FROMPS")
+         this.Form751.UPIgrp.FromPS.rawValue = sValue.toUpperCase();
+      if (sName.toUpperCase() == "UPI")
+         this.Form751.UPIgrp.UPI.rawValue = sValue;
+      if (sName.toUpperCase() == "NAME")
+         this.Form751.Sec_1.Name.rawValue = unescape(sValue);
+   }
+}
+
+
+</script
+>
+		</event
+>
+		<event activity="ready" ref="$form" name="event__form_ready"
+>
+			<script contentType="application/x-javascript"
+>
+// xfa.host.messageBox(this.Form751.UPIgrp.FromPS.rawValue);
+
+if (this.Form751.UPIgrp.FromPS.rawValue == 'N')
+   this.Form751.UPIgrp.FromPS.rawValue = 'J';
+else
+   if (this.Form751.UPIgrp.FromPS.rawValue == 'S')
+      this.Form751.UPIgrp.FromPS.rawValue = 'K';
+
+if (this.Form751.UPIgrp.FromPS.rawValue == "Y" || this.Form751.UPIgrp.FromPS.rawValue == "K"){
+   var v_upi  = this.Form751.UPIgrp.UPI.rawValue;
+   var v_name = this.Form751.Sec_1.Name.rawValue;
+   if (v_upi != null &amp;&amp; v_upi != "0")
+      this.Form751.UPIgrp.UPI.access = "readOnly";
+   if (v_name != null &amp;&amp; v_name != " ")
+      this.Form751.Sec_1.Name.access = "readOnly";
+   this.Form751.Title.ResetButton.presence = "hidden";
+}
+
+
+</script
+>
+		</event
+>
+		<event activity="postSave" ref="$host" name="event__postSave"
+>
+			<script contentType="application/x-javascript"
+>
+if (this.Form751.UPIgrp.FromPS.rawValue == "S")
+   this.Form751.UPIgrp.FromPS.rawValue = "Y";
+
+</script
+>
+		</event
+>
+		<event activity="preSave" ref="$host" name="event__preSave"
+>
+			<script contentType="application/x-javascript"
+>
+if (this.Form751.UPIgrp.FromPS.rawValue == "Y")
+   this.Form751.UPIgrp.FromPS.rawValue = "S";
+
+</script
+>
+		</event
+>
+		<?templateDesigner expand 1?>
+		<?renderCache.subset "Adobe Pi Std" 0 0 UTF-16 2 4 004F?>
+		<?renderCache.subset "Arial" 0 0 ISO-8859-1 4 220 55 000300050008000B000C000F0010001100120013001400150018001A001B001D00250026002700280029002C00300031003200330035003600370038003C004400450046004700480049004A004B004C004E004F0050005100520053005400550056005700580059005A005C005D "%(),-./012578:BCDEFIMNOPRSTUYabcdefghiklmnopqrstuvwyz?>
+		<?renderCache.subset "Arial" 1 0 ISO-8859-1 4 244 61 0003000A000B000C000F001000110012001300140015001A001B001C001D002400250026002700280029002A002B002C002D002E002F00300031003200330035003600370038003A003C004400450046004700480049004A004B004C004E004F0050005100520053005400550056005700580059005A005B005C '(),-./012789:ABCDEFGHIJKLMNOPRSTUWYabcdefghiklmnopqrstuvwxy?>
+		<?renderCache.subset "Arial" 0 1 ISO-8859-1 4 116 29 0003000B000C000F001000110029002C002F0030004400450046004700480049004A004B004C004E00510052005300550056005700580059005C (),-.FILMabcdefghiknoprstuvy?>
+		<?renderCache.subset "Arial Narrow" 0 0 ISO-8859-1 4 104 26 0003000B000C0011002400330035003600440046004700480049004B004C004F005000510052005400550056005700580059005C ().APRSacdefhilmnoqrstuvy?>
+		<?renderCache.subset "Arial Narrow" 1 1 ISO-8859-1 4 100 25 00030011001200240037004400450046004700480049004B004C004E004F005000510052005300550056005700580059005C ./ATabcdefhiklmnoprstuvy?>
+		<?renderCache.subset "Myriad Pro" 0 0 ISO-8859-1 4 20 5 001200160018002F0039157NX?>
+		<?renderCache.subset "Myriad Pro" 1 0 ISO-8859-1 4 116 29 0001000D001B002200230025002600270029002A002D002E002F003000310033003400350036003700380046004A004E004F0050005300540055 ,:ABDEFHILMNOPRSTUVWeimnorst?>
+		<?renderCache.subset "Symbol" 0 0 fontSpecific 4 4 2 0091Ò?>
+		<?renderCache.subset "Times New Roman" 1 0 ISO-8859-1 4 148 37 0003000B000C000F00140017001B001C0024002600280029002C002F0031003200330035003600370038003C00440045004600480049004A004C004D004F005100520053005500560057 (),1489ACEFILNOPRSTUYabcefgijlnoprst?>
+		<?renderCache.subset "Verdana" 0 0 ISO-8859-1 4 100 25 0003001100240026002F0033004400450046004700480049004A004B004C004E004F00500051005200530055005600570058 .ACLPabcdefghiklmnoprstu?>
+	</subform
+>
+	<?originalXFAVersion http://www.xfa.org/schema/xfa-template/2.4/?>
+	<?templateDesigner Print-PrinterName \\treprt01\Fargo?>
+	<?templateDesigner Print-Copies 1?>
+	<?templateDesigner Print-Collate 0?>
+	<?templateDesigner Print-PageRange all?>
+	<?templateDesigner Print-ProductionPrint 0?>
+	<?templateDesigner Print-DuplexingOption simplex?>
+	<?templateDesigner SaveTaggedPDF 1?>
+	<?templateDesigner SavePDFWithEmbeddedFonts 0?>
+	<?templateDesigner Zoom 120?>
+	<?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?>
+	<?templateDesigner FormTargetVersion 28?>
+	<?templateDesigner DefaultLanguage JavaScript?>
+	<?templateDesigner DefaultRunAt client?>
+	<?acrobat JavaScript strictScoping?>
+	<?PDFPrintOptions embedViewerPrefs 0?>
+	<?PDFPrintOptions embedPrintOnFormOpen 0?>
+	<?PDFPrintOptions duplexMode 0?>
+	<?templateDesigner DefaultPreviewType interactive?>
+	<?templateDesigner DefaultPreviewPagination simplex?>
+	<?templateDesigner XDPPreviewFormat 19?>
+</template
+>
